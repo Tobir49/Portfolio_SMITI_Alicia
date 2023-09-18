@@ -1,0 +1,16 @@
+/*Div principale*/
+.home {
+  display: flex;
+  justify-content: space-around;
+}
+
+/*texte*/
+.home-text {
+  align-self: center;
+}
+
+/*Image*/
+.profile-picture {
+  width: 600px;
+  height: 660px;
+}
