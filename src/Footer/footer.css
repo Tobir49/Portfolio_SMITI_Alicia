@@ -1,0 +1,19 @@
+footer {
+  background-color: #8666ac;
+  margin-top: 4em;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-text {
+  font-size: 1.2vw;
+  font-weight: 500;
+}
+
+.footer-icons {
+  font-size: 1.7vw;
+  margin: 0.9vw 0vw 0vw 50%;
+}

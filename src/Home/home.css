@@ -9,6 +9,16 @@
   align-self: center;
 }
 
+.secondary-title {
+  font-weight: 500;
+  font-size: 1.5vw;
+  margin: -1em 0em 3em 0em;
+}
+
+.button-home {
+  align-self: center;
+}
+
 /*Image*/
 .profile-picture {
   width: 600px;
